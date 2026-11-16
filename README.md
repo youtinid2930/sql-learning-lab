@@ -44,6 +44,7 @@ sql-learning-lab/
 │   │   ├── problems-situation.md
 │   │   ├── setup.sql
 │   │   ├── problem-01/
+│   │   │   ├── problem1.md
 │   │   │   ├── notes.md
 │   │   │   ├── solution.sql
 │   │
@@ -53,3 +54,17 @@ sql-learning-lab/
 │
 └── articles/
     └── ...
+## Progress
+
+This repository is continuously updated as I explore new SQL concepts and solve increasingly challenging problems.
+
+## Author
+
+**Youssef Tinid**
+
+- GitHub: [@youtinid2930](https://github.com/youtinid2930)
+- LinkedIn: [yousseftinid](https://linkedin.com/in/yousseftinid)
+
+---
+
+*Learning by solving problems, understanding the reasoning, and building practical skills.*
