@@ -54,6 +54,7 @@ sql-learning-lab/
 │
 └── articles/
     └── ...
+```
 ## Progress
 
 This repository is continuously updated as I explore new SQL concepts and solve increasingly challenging problems.
